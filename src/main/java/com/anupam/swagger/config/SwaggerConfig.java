@@ -37,7 +37,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
 				.description("\"Spring Boot REST API for Online Store\"").version("1.0.0")
 				.license("Apache License Version 2.0").licenseUrl("https://www.apache.org/licenses/LICENSE-2.0\"")
 				.contact(
-						new Contact("Anupam Sharma", "https://www.metlife.com", "anupam.sharma@metlife.com"))
+						new Contact("Anupam Sharma", "", ""))
 				.build();
 	}
 
